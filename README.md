@@ -1,2 +1,4 @@
 # Binary-Classification-Competition
- AUC EVAL: 88.08% Accuracy
+ ### Model: XGBoost
+ ### AUC EVAL: 88.08% Accuracy
+ ### Placement: 823/2234
